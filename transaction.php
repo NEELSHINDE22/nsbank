@@ -75,6 +75,7 @@ include 'conn.php';
 ?>
                   </tbody>
                 </table>
-                      
+                                  <footer style="text-align: center;">&#169; 2022,NS BANK<br>Developed by Neel Shinde <br>as a part of TSF GRIP</footer>
+
                 </body>
                 </html>
